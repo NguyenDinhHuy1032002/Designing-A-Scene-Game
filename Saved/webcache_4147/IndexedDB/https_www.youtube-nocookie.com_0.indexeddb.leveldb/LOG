@@ -1,0 +1,5 @@
+2023/05/27-10:06:17.662 4a84 Reusing MANIFEST D:/Designing_A_Scene_Game_Git/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/27-10:08:55.540 632c Level-0 table #5: started
+2023/05/27-10:08:55.549 632c Level-0 table #5: 1165 bytes OK
+2023/05/27-10:08:55.553 632c Delete type=0 #3
+2023/05/27-10:08:55.553 632c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

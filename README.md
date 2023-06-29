@@ -25,3 +25,8 @@ Giảng viên: Th.S Trần Thị Dung
 ![image](https://github.com/NguyenDinhHuy1032002/Designing-A-Scene-Game/assets/81515703/e1ce1f5a-51be-4d8c-998e-787e79ee412c)
 
 ### Step 6: Press the play button to experience the game.
+
+
+
+
+## Thank you for watching my project!

@@ -22,7 +22,8 @@ Giảng viên: Th.S Trần Thị Dung
 
 ### Step 5: Open the Unreal Engine, select "Recent Projects" and select the download file the extension "My3DPlatfomer.uproject".
 
-![image](https://github.com/NguyenDinhHuy1032002/Designing-A-Scene-Game/assets/81515703/e1ce1f5a-51be-4d8c-998e-787e79ee412c)
+![image](https://github.com/NguyenDinhHuy1032002/Designing-A-Scene-Game/assets/81515703/a1392104-404a-4d14-b867-c830361475b4)
+
 
 ### Step 6: Press the play button to experience the game.
 
